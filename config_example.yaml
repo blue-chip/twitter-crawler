@@ -1,0 +1,14 @@
+# You need to have a config.yaml file with the following structure
+twitter:
+  consumerkey: 'YourConsumerKey'
+  consumersecret: 'YourConsumerSecret'
+  accesstoken: 'YourAccessToken'
+  accesstokensecret: 'YourAccessTokenSecret'
+bounding-box:
+  lower-left:
+    lat: 12.3456789
+    lon: 12.3456789
+  upper-right:
+    lat: 12.3456789
+    lon: 12.3456789
+filename: 'file_name'
